@@ -1,0 +1,127 @@
+País;Continente
+Afeganistão; ASIA
+África do Sul; AFRICA
+Alemanha, República Democrática; EUROPA
+Angola; AFRICA
+Anguilla; AMERICA DO NORTE
+Antígua e Barbuda; AMERICA DO NORTE
+Antilhas Holandesas; AMERICA DO NORTE
+Argentina; AMERICA DO SUL 
+Aruba; AMERICA DO SUL 
+Austrália; OCEANIA
+Áustria; EUROPA
+Bahamas; AMERICA DO NORTE
+Bangladesh; ASIA
+Barbados; AMERICA DO NORTE
+Barein; ASIA
+Bélgica; EUROPA
+Belice; AMERICA DO NORTE
+Benin; AFRICA
+Bolívia; AMERICA DO SUL
+Bósnia-Herzegovina; EUROPA
+Brasil; AMERICA DO SUL
+Bulgária; EUROPA
+Cabo Verde; AFRICA
+Camarões; AFRICA
+Canadá; AMERICA DO NORTE
+Catar; ASIA
+Cayman, Ilhas; AMERICA DO NORTE
+Chile; AMERICA DO SUL
+China; ASIA
+Chipre; EUROPA
+Cocos (Keeling), Ilhas; ASIA
+Colômbia; AMERICA DO SUL
+Comores; AFRICA
+Congo; AFRICA
+Coreia, Republica Sul; ASIA
+Costa do Marfim; AFRICA
+Costa Rica; AMERICA DO NORTE
+Croácia; EUROPA
+Cuba; AMERICA DO NORTE
+Curaçao; AMERICA DO SUL
+Dinamarca; EUROPA
+Dominica; AMERICA DO NORTE
+El Salvador; AMERICA DO NORTE
+Emirados Arabes Unidos; ASIA
+Equador; AMERICA DO SUL
+Espanha; EUROPA
+Estados Unidos; AMERICA DO NORTE
+Estônia; EUROPA
+Filipinas; ASIA
+Finlândia; EUROPA
+França; EUROPA
+Gana; AFRICA
+Gibraltar; EUROPA
+Granada; AMERICA DO NORTE
+Grécia; EUROPA
+Guatemala; AMERICA DO NORTE
+Guiana; AMERICA DO SUL
+Guiana Francesa; AMERICA DO SUL
+Guine Bissau; AFRICA
+Guine Equatorial; AFRICA
+Haiti; AMERICA DO NORTE
+Honduras; AMERICA DO NORTE
+Hong Kong; ASIA
+Hungria; EUROPA
+Ilha de Man; EUROPA
+Ilhas Virgens; AMERICA DO NORTE
+India; ASIA
+Indonésia; ASIA
+Irã; ASIA
+Iraque; ASIA
+Irlanda; EUROPA
+Itália; EUROPA
+Jamaica; AMERICA DO NORTE
+Japão; ASIA
+Jordânia; ASIA
+Letônia; EUROPA
+Líbano; ASIA
+Libéria; AFRICA
+Luxemburgo; EUROPA
+Malásia; ASIA
+Malta; EUROPA
+Marshall, Ilhas; OCEANIA
+Mauritânia; AFRICA
+México; AMERICA DO NORTE
+Moçambique; AFRICA
+Montenegro; EUROPA
+Namibia; AFRICA
+Nicaragua; AMERICA DO NORTE
+Nigéria; AFRICA
+Noruega; EUROPA
+Nova Caledônia; OCEANIA
+Nova Zelândia; OCEANIA
+Omã; ASIA
+Países Baixos; EUROPA
+Panamá; AMERICA DO NORTE
+Paraguai; AMERICA DO SUL
+Peru; AMERICA DO SUL
+Polônia; EUROPA
+Porto Rico; AMERICA DO NORTE
+Portugal; EUROPA
+Quênia; AFRICA
+Reino Unido; EUROPA
+República DominicanA; AMERICA DO NORTE
+Rússia; EUROPA
+São Tomé e Príncipe; AFRICA
+São Vicente e Granadinas; AMERICA DO NORTE
+Senegal; AFRICA
+Serra Leoa; AFRICA
+Singapura; ASIA
+Suazilândia; AFRICA
+Suécia; EUROPA
+Suíça; EUROPA
+Suriname; AMERICA DO SUL
+Tailândia; ASIA
+Taiwan (FORMOSA); ASIA
+Tanzânia; AFRICA
+Tcheca, República; EUROPA
+Togo; AFRICA
+Trinidade Tobago; AMERICA DO SUL
+Tunísia; AFRICA
+Turquia; EUROPA
+Tuvalu; OCEANIA
+Uruguai; AMERICA DO SUL
+Vanuatu; OCEANIA
+Venezuela; AMERICA DO SUL
+Vietnã; ASIA
